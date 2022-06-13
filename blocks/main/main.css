@@ -1,0 +1,16 @@
+.main {
+  margin: 28px 48px 0;
+  border: 1px solid blueviolet;
+}
+
+@media screen and (max-width: 1023px) {
+  .main {
+    margin: 28px 24px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .main {
+    margin: 16px 16px 0;
+  }
+}
