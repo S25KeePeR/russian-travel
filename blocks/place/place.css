@@ -8,22 +8,34 @@
   row-gap: 48px;
   align-items: start;
 }
+.place:first-of-type {
+  margin: 91px 0 0;
+}
 
 @media screen and (max-width: 1279px) {
   .place {
     grid-template-columns: 440px auto;
+    column-gap: 32px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .place {
     grid-template-columns: 340px auto;
+    column-gap: 28px;
+    margin: 71px 0 0;
   }
+
 }
 
 @media screen and (max-width: 767px) {
   .place {
     grid-template-columns: auto;
     row-gap: 32px;
+    margin: 47px 0 0;
+  }
+
+  .place:first-of-type {
+    margin-top: 64px;
   }
 }

@@ -7,12 +7,11 @@
   font-weight: 400;
   text-decoration: none;
   color: #fff;
-  border-bottom: 2px solid #fff;
-  padding-bottom: 2px;
+  border-bottom: 1px solid #fff;
   transition: opacity .2s linear;
 }
 
 .place__link:hover {
   opacity: 0.8;
-  transition: opacity .2s linear;
+
 }
