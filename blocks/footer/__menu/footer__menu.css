@@ -1,6 +1,6 @@
 .footer__menu {
   display: grid;
-  grid-template-columns: repeat(5, auto) 1fr;
+  grid-template-columns: repeat(5, auto);
   align-items: end;
   gap: 18px;
   justify-content: start;
