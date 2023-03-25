@@ -5,8 +5,8 @@
 Реализация Flex и Grid структуры. Адаптивная верстка.
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-* [Ссылка на GitHub Pages](https://github.com/S25KeePeR/russian-travel/tree/master)
-* [Ссылка на страницу](https://s25keeper.github.io/russian-travel/index.html)
+* [Ссылка на репозиторий ГИТ](https://github.com/S25KeePeR/russian-travel/tree/master)
+* [Ссылка на страницу GitHub Pages](https://s25keeper.github.io/russian-travel/index.html)
 
 
 ----

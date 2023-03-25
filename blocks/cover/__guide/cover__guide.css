@@ -1,4 +1,4 @@
-.cover__background {
+.cover__guide {
   min-height: 740px;
   position: relative;
   display: flex;
@@ -13,7 +13,7 @@
 
 }
 
-.cover__background::after {
+.cover__guide::after {
   content: '';
   height: 100%;
   width: 100%;
@@ -24,25 +24,25 @@
   transition: background-color .3s linear;
 }
 
-.cover__background:hover::after {
+.cover__guide:hover::after {
   background-color: rgba(42 44 47 / 80%);
 
 }
 
 @media screen and (max-width: 1279px) {
-  .cover__background{
+  .cover__guide {
     min-height: 640px;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .cover__background {
+  .cover__guide {
     min-height: 480px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .cover__background {
+  .cover__guide {
     min-height: 200px;
   }
 }
